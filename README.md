@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">—————————————————————————————————————————————————————————————————————————</p>
+<p align="left">————————————————————————————————————————————————————————————————</p>
 
 ###
 
@@ -34,12 +34,12 @@
 
 ###
 
-<p align="left">—————————————————————————————————————————————————————————————————————————</p>
+<p align="left">————————————————————————————————————————————————————————————————</p>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erxsdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=Deneme" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Erxsdev&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
